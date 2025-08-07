@@ -1,4 +1,4 @@
-# 🚀 Tests With Laravel
+# 🧪 Tests With Laravel
 *Laravel, Pest*
 
 Repositório de estudos sobre implementação de testes no *Laravel* com o uso do *Pest* para execução dos testes.
